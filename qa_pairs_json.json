@@ -1,0 +1,4 @@
+{
+    "Does company have career managers for engineers?": " Yes ,  the  company  has  career  managers  for  engineers . ",
+    "Does Company encrypt data in transit and at rest?": " Yes ,  Company  encrypt s  data  in  transit  using  standard  Transport  Layer  Security  ( TLS   1 . 2 )  and  data  at  rest  using   256 -bit  Advanced  Encryption  Standard  ( AES - 256 ).  Database  backups  are  also  encrypted  at  rest . "
+}
