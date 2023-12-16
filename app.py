@@ -12,7 +12,7 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain.document_loaders import PyPDFLoader
 from langchain.document_loaders import JSONLoader
 
-# os.environ["OPENAI_API_KEY"] = getpass.getpass()
+os.environ["OPENAI_API_KEY"] = getpass.getpass()
 
 app = Flask(__name__)
 
